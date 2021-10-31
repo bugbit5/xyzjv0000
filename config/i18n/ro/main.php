@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Fișier (dosar) șterge, tăiate",
     "group_guest"                    => "Vizitatori",
     "group_guest_desc"               => "Nu sunteți membru al acestui grup,<br/>acces numai la [directorul partajat de grup] de acces, read-only.",
-    "group_role_lebel_desc"          => "Sunteți un membru al grupului, în cadrul documentației grupului de<br/>pentru toate drepturile de exploatare atribuite de către administrator iunie",
+    "group_role_lebel_desc"          => "Sunteți membru al acestui grup,<br/>Toate documentele în interiorul grupului sunt atribuite de administrator",
     "button_save_and_add"            => "Salvați și continuați să adăugați",
     "path_cannot_search"             => "Directorul nu acceptă căutarea!",
     "not_support"                    => "Nu este suportat!",

@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Fichier (dossier) supprimer, couper",
     "group_guest"                    => "visiteurs",
     "group_guest_desc"               => "Vous n'êtes pas membre de ce groupe,<br/>accès uniquement à [le groupe répertoire partagé] suivant, l'accès en lecture seule.",
-    "group_role_lebel_desc"          => "Vous êtes un membre du groupe, <br/>dans la documentation du groupe pour tous les droits d'exploitation attribués par l'administrateur Jun",
+    "group_role_lebel_desc"          => "Vous êtes membre de ce groupe,<br/>Tous les documents intragroupe sont attribués par l'administrateur",
     "button_save_and_add"            => "Enregistrer et continuer à ajouter",
     "path_cannot_search"             => "Le répertoire ne supporte pas la recherche!",
     "not_support"                    => "Non pris en charge!",

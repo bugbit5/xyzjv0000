@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Archivo (carpeta) eliminar, cortar",
     "group_guest"                    => "visitantes",
     "group_guest_desc"               => "Usted no es un miembro de este grupo,<br/>acceso sólo a [el directorio compartido grupo] siguiente, acceso de sólo lectura.",
-    "group_role_lebel_desc"          => "Usted es un miembro del grupo, dentro de la documentación del grupo<br/>para todos los derechos de explotación están asignados por el administrador de junio",
+    "group_role_lebel_desc"          => "Usted es miembro de este grupo,<br/>todos los documentos dentro del grupo, toda la autoridad a ser asignada por el administrador",
     "button_save_and_add"            => "Guardar y continuar añadiendo",
     "path_cannot_search"             => "El directorio no es compatible con la búsqueda!",
     "not_support"                    => "No es compatible!",

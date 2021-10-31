@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Tệp (thư mục) xóa, cắt",
     "group_guest"                    => "Khách thăm",
     "group_guest_desc"               => "Bạn không là thành viên của nhóm này,<br/>chỉ truy cập vào [các nhóm thư mục chia sẻ] sau, truy cập chỉ đọc.",
-    "group_role_lebel_desc"          => "Bạn là một thành viên của nhóm, trong tài liệu hướng dẫn các nhóm<br/>cho tất cả các quyền điều hành bởi người quản trị Tháng Sáu giao",
+    "group_role_lebel_desc"          => "Bạn là một thành viên của nhóm này,<br/>Tất cả các tài liệu trong nhóm được phân công bởi quản trị viên",
     "button_save_and_add"            => "Lưu và tiếp tục thêm",
     "path_cannot_search"             => "Các thư mục không hỗ trợ việc tìm kiếm!",
     "not_support"                    => "Không được hỗ trợ!",

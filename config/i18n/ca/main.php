@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Arxiu (carpeta) eliminar, tallar",
     "group_guest"                    => "visitants",
     "group_guest_desc"               => "No és un membre d'aquest grup,<br/>accés només a [directori compartit grup] següent, accés de només lectura.",
-    "group_role_lebel_desc"          => "Vostè és un membre del grup, dins de la documentació del grup<br/>per a tots els drets d'explotació estan assignats per l'administrador de juny",
+    "group_role_lebel_desc"          => "Sou membre d'aquest grup,<br/>tots els documents del grup, tota l'autoritat que l'administrador ha d'assignar.",
     "button_save_and_add"            => "Desa i continua afegint",
     "path_cannot_search"             => "El directori no és compatible amb la recerca!",
     "not_support"                    => "No és compatible!",

@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Fájl (mappa) törléséhez, vágott",
     "group_guest"                    => "látogatók",
     "group_guest_desc"               => "Ön nem tagja ennek a csoportnak,<br/>hozzáférést csak [a csoport megosztott könyvtár] következő, csak olvasható hozzáférést.",
-    "group_role_lebel_desc"          => "Ön egy csoport tagja, a csoporton belül<br/>dokumentáció minden operációs jogok rendszergazda által rendelt június",
+    "group_role_lebel_desc"          => "Ebbe a csoportba tartozik,<br/>Minden csoporton belüli dokumentumot a rendszergazda rendeli el",
     "button_save_and_add"            => "Mentés és továbbra is hozzá",
     "path_cannot_search"             => "A könyvtár nem támogatja a keresést!",
     "not_support"                    => "Nem támogatott!",

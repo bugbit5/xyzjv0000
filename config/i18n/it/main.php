@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "File (cartella) eliminare, tagliare",
     "group_guest"                    => "I visitatori",
     "group_guest_desc"               => "Tu non sei un membro di questo gruppo,<br/>l'accesso solo a [directory condivisa gruppo] seguente, accesso in sola lettura.",
-    "group_role_lebel_desc"          => "Tu sei un membro del gruppo, all'interno della documentazione del gruppo<br/>per tutti i diritti operativi assegnati dall'amministratore giugno",
+    "group_role_lebel_desc"          => "Sei un membro di questo gruppo,<br/>tutti i documenti all'interno del gruppo tutte le autorizzazioni da assegnare dall'amministratore",
     "button_save_and_add"            => "Salva e continuare ad aggiungere",
     "path_cannot_search"             => "La directory non supporta la ricerca!",
     "not_support"                    => "Non supportato!",

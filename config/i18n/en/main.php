@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "File (folder) delete, cut",
     "group_guest"                    => "Visitors",
     "group_guest_desc"               => "You are not a member of this group, <br/>Only access the contents of the [group share directory], read-only permissions.",
-    "group_role_lebel_desc"          => "You are a member of this group, <br/>All documents within the group All rights reserved Jun by admin",
+    "group_role_lebel_desc"          => "You are a member of this group, <br/>All documents within the group are assigned by the administrator",
     "button_save_and_add"            => "Save and continue",
     "path_cannot_search"             => "The directory does not support searching!",
     "not_support"                    => "not supported!",

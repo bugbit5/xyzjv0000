@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Failas (aplankas) ištrinti, supjaustyti",
     "group_guest"                    => "lankytojai",
     "group_guest_desc"               => "Jūs nesate šios grupės narys,<br/>prieiga tik [grupė pasidalino katalogas] po, tik skaityti.",
-    "group_role_lebel_desc"          => "Jūs esate grupės narys, per grupės<br/>dokumentus visoms operacinėms teisių priskirtas administratoriaus Jun",
+    "group_role_lebel_desc"          => "Jūs esate šios grupės narys,<br/>Visi grupės vidiniai dokumentai yra priskiriami administratoriaus",
     "button_save_and_add"            => "Išsaugoti ir tęsti pridėti",
     "path_cannot_search"             => "Katalogas nepalaiko paiešką!",
     "not_support"                    => "Nepalaikoma!",

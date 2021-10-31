@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "文件(夾)刪除,剪切",
     "group_guest"                    => "訪客",
     "group_guest_desc"               => "您不是該群組成員，<br/>僅能訪問[群組共享目錄]下面的內容,只讀權限.",
-    "group_role_lebel_desc"          => "您是該群組成員，<br/>群內文檔所有操作權限君由管理員分配",
+    "group_role_lebel_desc"          => "您是該群組成員，<br/>群內文檔所有操作權限均由管理員分配",
     "button_save_and_add"            => "儲存並繼續添加",
     "path_cannot_search"             => "该目录不支持搜尋！",
     "not_support"                    => "暂不支持！",

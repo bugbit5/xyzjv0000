@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Arquivo (pasta) apagar, cortar",
     "group_guest"                    => "visitantes",
     "group_guest_desc"               => "Você não é um membro deste grupo,<br/>acesso apenas a seguinte acesso [o grupo diretório compartilhado], somente leitura.",
-    "group_role_lebel_desc"          => "Você é um membro do grupo, dentro de documentação o grupo<br/>para todos os direitos de exploração atribuídos pelo administrador junho",
+    "group_role_lebel_desc"          => "Você é um membro desse grupo,<br/>Todos os documentos intragrupos são atribuídos pelo administrador",
     "button_save_and_add"            => "Salvar e continuar a adicionar",
     "path_cannot_search"             => "O diretório não suporta a busca!",
     "not_support"                    => "Não suportado!",

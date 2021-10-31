@@ -127,7 +127,7 @@ return array(
     "role_type_name_write:remove"    => "Datei (Ordner) löschen, schneiden",
     "group_guest"                    => "Besucher",
     "group_guest_desc"               => "Sie sind kein Mitglied dieser Gruppe,<br/>nur Zugriff auf [die Gruppe freigegebenen Verzeichnis] ​​folgenden, nur Lesezugriff.",
-    "group_role_lebel_desc"          => "Sie sind ein Mitglied der Gruppe, innerhalb der Gruppe<br/>Dokumentation für alle Betrieb vom Administrator zugewiesenen Rechten Juni",
+    "group_role_lebel_desc"          => "Sie sind Mitglied dieser Gruppe,<br/>Alle gruppeninternen Dokumente werden vom Administrator vergeben",
     "button_save_and_add"            => "Speichern und weiter hinzufügen",
     "path_cannot_search"             => "Das Verzeichnis unterstützt nicht die Suche!",
     "not_support"                    => "Nicht unterstützt!",
