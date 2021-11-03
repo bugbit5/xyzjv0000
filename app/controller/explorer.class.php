@@ -77,7 +77,7 @@ class explorer extends Controller{
 		if (count($infoList)==1 && $infoList[0]['type']!='folder') {//单个文件
 			$file = $infoList[0]['path'];
 			if( $GLOBALS['isRoot'] || 
-				$GLOBALS['auth']["explorer.fileDownloa"]==1 ||
+				$GLOBALS['auth']["explorer.fileDownload"]==1 ||
 				isset($this->in['viewPage'])){
 				$data['downloadPath'] = _make_file_proxy($file);
 			}
