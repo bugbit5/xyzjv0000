@@ -172,5 +172,8 @@ kod is made possible by the following open source projects.
 
 # License
 kodcloud is issued under GPLv3.   license.[License](http://kodcloud.com/tools/licenses/license.txt)  
-Contact: kalcaddle#qq.com  
+Contact: warlee#kodcloud.com  
 Copyright (C) 2013 kodcloud.com  
+
+# 版权声明
+kodexplorer 使用 GPL v3 协议.
