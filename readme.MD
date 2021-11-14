@@ -12,10 +12,8 @@
 
 ### [立即体验](http://demo.kodcloud.com/) [user: demo/demo]
 -----
-- [Change log](./ChangeLog.md)
-- [English Document](http://kodcloud.com#lang=en)
-- [中文文档](http://kodcloud.com/#lang=zh_CN)
-- [Donate](https://www.paypal.me/kalcaddle)
+- [更新日志](./ChangeLog.md)
+
 
 # 特性
  - 像使用操作系统一样使用体验,右键操作,拖拽,快捷键……
@@ -155,16 +153,15 @@ chmod -Rf 777 ./*
 # 鸣谢
 kod项目离不开其他的开源项目
 
-* [seajs](https://github.com/seajs/seajs) 
-* [jQuery](https://github.com/jquery/jquery)
-* [ace](https://github.com/ajaxorg/ace)
-* [zTree](https://github.com/zTree/zTree_v3) 
-* [webuploader](https://github.com/fex-team/webuploader) 
-* [artTemplate](http://aui.github.com/artTemplate/)
-* [artDialog](https://github.com/aui/artDialog)
-* [jQuery-contextMenu](http://medialize.github.com/jQuery-contextMenu/) 
+* seajs
+* jQuery
+* ace
+* [zTree](https://gitee.com/zTree/zTree_v3) 
+* webuploader 
+* artTemplate
+* artDialog
+* jQuery-contextMenu
 * ...
-
 
 
 # 版权声明
