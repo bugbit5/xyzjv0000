@@ -36,10 +36,12 @@ a{text-decoration:none;color: #adf;}
 .background{
 	position:absolute;overflow: hidden;z-index: -10;
 	background: url() no-repeat center center;
+	background-image: linear-gradient(180deg,#3b90fa,#009688);
 	width:100%;height: 100%;
 	background-size: cover;
 	right: 0px;top: 0px; bottom: 0px;left: 0px;
 }
+
 .aero{}
 .aero:before{
 	position: absolute;
