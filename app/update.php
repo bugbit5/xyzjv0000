@@ -64,6 +64,7 @@ function updateCheck(){
 function unzipRepeat(){
 	$zipFile = THE_DATA_PATH.'2.0-'.UPDATE_VERSION.'.zip';
 	if(!file_exists($zipFile)) return;
+	require_once(CLASS_DIR.'archiveLib/pclzip.class.php');
 	$zip = new PclZip($zipFile);
 	$result = $zip->extract(PCLZIP_OPT_PATH,THE_BASIC_PATH,PCLZIP_OPT_REPLACE_NEWER);
 }

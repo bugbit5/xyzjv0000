@@ -1,5 +1,12 @@
 # KodExplorer
 
+> #### 更新到 kodbox:  [https://github.com/kalcaddle/kodbox](https://github.com/kalcaddle/kodbox)
+> ##### [Download](https://kodcloud.com/download/) | [Demo](https://demo.kodcloud.com/)  
+> *该项目处于维护阶段,不再开发新功能.推荐使用全新设计升级产品kodbox*
+
+----
+
+
 [![Home page](https://img.shields.io/badge/home-page-yellow.svg?style=flat)](http://kodcloud.com) [![GPLV3 License](https://img.shields.io/badge/Licence-GPLV3-green.svg?style=flat)](http://kodcloud.com) [![Download](http://kodcloud.com/tools/version/?analyze/download)](https://gitee.com/kalcaddle/KODExplorer/repository/archive/master.zip)
 
 > KodExplorer可道云，原名芒果云，是基于Web技术的私有云和在线文件管理系统。致力于为用户提供安全可控、可靠易用、高扩展性的私有云解决方案。用户只需通过简单环境搭建，即可使用KodExplorer快速完成私有云/私有网盘/在线文档管理系统的部署和搭建。可道云提供了类windows经典用户界面，延续了windows平台的用户界面、操作逻辑和使用习惯，支持100余种文件格式的在线预览，解决了文件在线存储与管理、共享和跨平台访问、在线办公影音娱乐等一系列问题，使得用户的私有云产品可以拥有本地操作一样方便、快捷、安全的体验。
