@@ -168,7 +168,7 @@ class user extends Controller{
 		show_tips("密码长度必须大于6,同时包含英文和数字;<br/>请联系管理员修改后再试!",false);
 	}
 	private function checkPassword($password){
-		if(INSTALL_CHANNEL =='hikvision.com'){
+		if(defined('INSTALL_CHANNEL') && INSTALL_CHANNEL =='hikvision.com'){
 			$this->config['settingSystemDefault']['passwordCheck'] = '1';
 		}
 		if($this->config['settingSystemDefault']['passwordCheck'] == '0') return true;
