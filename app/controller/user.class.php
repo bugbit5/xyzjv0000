@@ -28,7 +28,7 @@ class user extends Controller{
 		$this->notCheckST = array('share','debug');
 		$this->notCheckACT = array(
 			'loginFirst','login','logout','loginSubmit',
-			'checkCode','publicLink','qrcode','sso','appConfig');
+			'checkCode','publicLink','qrcode','sso');
 		
 		$this->notCheckApp = array();//'pluginApp.to'
 		if(!$this->user){
@@ -309,6 +309,7 @@ class user extends Controller{
 			),
 			'phpVersion'	=> PHP_VERSION,
 			'version'       => KOD_VERSION,
+			'versionBuild'  => KOD_VERSION_BUILD,
 			'kodID'			=> md5(BASIC_PATH.$this->config['settingSystem']['systemPassword']),
 			'jsonData'   	=> "",
 			'selfShare'		=> systemMember::userShareList($this->user['userID']),
@@ -361,6 +362,7 @@ class user extends Controller{
 				'uploadCheckChunk'	=> $this->config['settings']['uploadCheckChunk'],
 			),
 			'version'       => KOD_VERSION,
+			'versionBuild'  => KOD_VERSION_BUILD,
 			// 'userConfig' 	=> $this->config['user'],
 		);
 		show_json($theConfig);
